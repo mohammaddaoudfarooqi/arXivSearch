@@ -100,7 +100,7 @@ The assistant uses a graph-based workflow to process queries:
 3. Download papers if necessary
 4. Generate answer based on retrieved information
 
-![ArXiv Research Assistant](graph.png)
+<img src="graph.png" width="512" alt="ArXiv Research Assistant"/>
 
 ## UI
 
